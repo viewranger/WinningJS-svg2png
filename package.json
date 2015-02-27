@@ -21,7 +21,7 @@
         "lint": "jshint tasks && jshint lib"
     },
     "dependencies": {
-        "svg2png": "~ 1.0",
+        "svg2png": "git://github.com/viewranger/svg2png",
         "q": ">= 0.8.12"
     },
     "peerDependencies": {
